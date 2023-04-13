@@ -1,0 +1,21 @@
+body{
+    background-color:chartreuse;
+}
+
+img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 22px;
+    top:0px;
+}
+
+nav{
+    float: right;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-blocks;
+}
